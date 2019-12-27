@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CardOpenAnimation</string>
+    <string name="startAnimationKey">Start animation</string>
 </resources>
